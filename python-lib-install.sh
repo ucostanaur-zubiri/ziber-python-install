@@ -21,3 +21,4 @@ pip install keyboard
 pip install progressbar
 cd /home/$USER/workspace/python
 git clone https://github.com/ucostanaur-zubiri/ziber-python-attacks.git
+echo "\n\n Instalazioa amaitu da.\n"
